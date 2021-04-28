@@ -1,0 +1,147 @@
+.my-image{
+    border: 5px solid white; 
+    border-radius: 50%;
+    width: 30px; 
+    height: 30px; 
+    position: absolute; 
+    left: 15px;
+    top: 19px;
+    size: 20px;
+    
+}
+
+#comment{
+    font-size: 10px;
+    padding-left:20px;
+    
+}
+
+.box{
+    padding-left: 70px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    width: 100%;
+    
+}
+
+.image-div{
+    max-height:150px;
+    min-width: 100%;
+}
+
+.profile{
+    max-height: 150%;
+    max-width: 150px;
+    border: 5px solid white;
+    border-radius: 50%;    
+    top:19%;
+    left: 2%;
+    position:absolute;
+    margin-left:20px;
+}
+
+
+#title{
+    font-weight: 600;
+    margin-left: 20px; 
+    font-size:25px;
+    font-family: sans-serif;
+}
+#dot{
+    font-weight: 10;
+    color: grey;
+}
+
+#div{
+    padding-top: 80px;
+
+}
+#resume{
+    font-family: sans-serif;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 400;
+
+}
+#school{
+    font-family: sans-serif;
+    margin-left: 20px;
+    color: grey;
+    font-weight: 10;
+}
+#button{
+    color: white;
+    border: none;
+    background-color: rgb(28, 96, 224);
+    border-radius: 40px;
+    font-size: 20px;
+    width: 100px;
+    font-family:sans-serif ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button-container{
+    
+    display: flex;
+    text-align: center;
+    font-size: 28px;
+    margin-left: 20px;
+    padding-top: 10px ;
+}
+#line{
+    border: 10px solid rgba(233, 233, 233, 0.986);
+}
+
+ul li {
+    position: relative;
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+   
+
+}
+
+
+#me{
+    
+    padding-top: 15px;
+    padding-bottom: px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+#fact{
+    padding-top: 50px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+.container-1{
+    display: flex; 
+    justify-content: space-evenly;
+}
+i.fas{
+    font-size: 40px;
+    font-weight: bolder;
+    color:rgb(139, 136, 136);
+    padding-left: 5px;
+    
+}
+#home{
+    font-size: 15px;
+    color:rgb(139, 136, 136);
+    padding-left: 1%;
+}
+
+
+
+
+    
+
